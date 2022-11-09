@@ -22,7 +22,7 @@ translation: Deutsch translations/WV_1_plan_de.md
 
 # WordValue as a tool for studying scientific English
 
-> The goal is to implement the WordValue application in university courses of English for Specific Purposes.
+
 
 This application, primarily aimed towards users from a linguistics or language teaching background, will help students of technical subjects to visualize the text from:
 
@@ -33,74 +33,73 @@ This application, primarily aimed towards users from a linguistics or language t
 
 ## Goals of implementation
 
-Students use WordValue to explore current popular scientific texts of 500 - 600 words. Goals for the students are:
+From a teaching perspective, the purpose of this session is to implement the WordValue application in university courses of English for Specific Purposes.
+
+
+From a learning perspective, students use a digital application (WordValue) to aid them in exploring and exploiting online resources. The goals of the students can be divided into 4 categories (see below). In addition to the obvious aim of developing language proficiency, it is essential for university students to do this in the context of developing their digital literacy, analytical skills and competence in communicating professionally.
+
+Language Proficiency
+
+- To read popular scientific articles in English
+- To engage in oral discussions in English
 
 Digital Literacy
 
-- To become acquainted with the WordValue application
-- To become a competent user of WordValue
-- To find appropriate images 
-
-Language practice
-
-- To read popular scientific articles in English
-- To speak English
+- To become a competent user of the WordValue application
+- To find images appropriate for describing terminology
 
 Analytical skills
-- To extract technical vocabulary from the articles
 
+- To extract technical vocabulary from the articles
 - To associate technical terms with chosen images
 
-Communication skills
+Professional Communication
 
-- To engage in oral discussions
+- To present ideas
 - To work in teams
 
-### Sequence for November 15
+## Outline for 90-minute session
 
-1. S complete questionnaire part 1
+    {{0}}
+> Preparation
+>
+> 1. S complete questionnaire part 1
+> 2. S watch introductory videos on how to use WordValue
+> 3. S set up account
+> 4. T demonstrates with texts and tables
 
-2. S watch introductory videos on how to use WordValue
+    {{1}}
+> Text work
+>
+> 5. S divided into two groups, S1 and S2
+> 6. S1 receives [High entropy alloys: Structural disorder and magnetic properties](https://www.sciencedaily.com/releases/2022/10/221020125940.htm)
+> 7. S2 receives [Advances in water-splitting catalysts](https://www.sciencedaily.com/releases/2022/10/221020122953.htm)
+> 8. S receive table with 6000 most frequently occurring words https://www.kilgarriff.co.uk/bnc-readme.html
+> 9. S use WordValue to extract 10 technical terms
 
-3. S set up account
+    {{2}}
+> Image work
+>
+> 10. S search for images (two per term) that are associated with their terms
+> 11. S work in pairs (S1 + S2) to explain associations between their images and terms
+> 12. S1 indicates which image chosen by S2 is more closely connected to term
+> 13. S2 indicates which image chosen by S1 is more closely connected to term
 
-4. T demonstrates with texts and tables
-
-5. S divided into two groups, S1 and S2
-
-6. S1 receives text 1
-
-7. S2 receives text 2
-
-8. S receive table with 6000 most frequently occurring words https://www.kilgarriff.co.uk/bnc-readme.html
-
-9. S use WordValue to extract10 technical terms
-
-10. S search for images (two per term) that are associated with their terms
-
-11. S work in pairs (S1 + S2) to explain associations between their images and terms
-
-12. S1 indicates which image chosen by S2 is more closely connected to term
-
-13. S2 indicates which image chosen by S1 is more closely connected to term
-
-14. S1 reads text of S2
-
-15. S2 reads text of S1
-
-16. Discussion in plenum
-
-17. S complete questionnaire part 2
+    {{3}}
+> Conclusions
+>
+> 14. S1 group gets together to choose two images to present
+> 15. S2 group gets together to choose two images to present
+> 16. Presentations and discussion in plenum
+> 17. S complete questionnaire part 2
 
 ## Instructions for Students
 
 text
 
-text
-
 ## Open Questions:
 
-are there any standard pedagogical/psychological questionnaires we could use?
+Are there any standard pedagogical/psychological questionnaires we could use?
 
-are there questionnaires that would help us to link our results to the type of learner/personality type in follow-up studies?
+Are there questionnaires that would help us to link our results to the type of learner/personality type in follow-up studies?
 
