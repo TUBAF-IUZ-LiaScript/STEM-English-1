@@ -20,69 +20,77 @@ translation: Deutsch translations/WV_1_plan_de.md
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TUBAF-IUZ-LiaScript/STEM-English-1/blob/main/WV_1_plan.md)
 
 
-# Implementation 1
-_
-## Background
+# WordValue as a tool for studying scientific English
 
-The goal is to implement the WordValue application in university courses of English for Specific Purposes.This app, primarily aimed towards users from a linguistics or language teaching background, will help students of technical subjects to visualize the text from scientific articles (written English) or from the transcript of videos (spoken English) and thus enable them to explore the vocabulary and structure of the texts. The digital nature of WordValue enables the easy sharing of students' findings and the integration of application into a contemporary course setting.
+> The goal is to implement the WordValue application in university courses of English for Specific Purposes.
 
-WordValue as a tool for studying scientific English
+This application, primarily aimed towards users from a linguistics or language teaching background, will help students of technical subjects to visualize the text from:
 
-## Brief Description
+- scientific articles (written English) or from
+- transcripts of videos (spoken English)
 
-### Goals
+ and thus enable them to explore the vocabulary and structure of the texts. The digital nature of WordValue enables the easy sharing of students' findings and the integration of the application into a contemporary course setting.
+
+## Goals of implementation
 
 Students use WordValue to explore current popular scientific texts of 500 - 600 words. Goals for the students are:
 
-To become acquainted with the WordValue app
+Digital Literacy
 
-To read popular scientific articles
+- To become acquainted with the WordValue application
+- To become a competent user of WordValue
+- To find appropriate images 
 
-To extract technical vocabulary from the articles
+Language practice
 
-To associate technical terms with chosen images
+- To read popular scientific articles in English
+- To speak English
 
-To engage in oral discussions
+Analytical skills
+- To extract technical vocabulary from the articles
 
-To work in teams
+- To associate technical terms with chosen images
 
-### Sequence for November 8
+Communication skills
 
-S watch introductory videos on how to use WordValue
-
-S set up account
-
-T demonstrates with texts and tables
+- To engage in oral discussions
+- To work in teams
 
 ### Sequence for November 15
 
 1. S complete questionnaire part 1
 
-2. S divided into two groups, S1 and S2
+2. S watch introductory videos on how to use WordValue
 
-3. S1 receives text 1
+3. S set up account
 
-4. S2 receives text 2
+4. T demonstrates with texts and tables
 
-5. S receive table with 6000 most frequently occurring words https://www.kilgarriff.co.uk/bnc-readme.html
+5. S divided into two groups, S1 and S2
 
-6. S use WordValue to extract10 technical terms
+6. S1 receives text 1
 
-7. S search for images (two per term) that are associated with their terms
+7. S2 receives text 2
 
-8. S work in pairs (S1 + S2) to explain associations between their images and terms
+8. S receive table with 6000 most frequently occurring words https://www.kilgarriff.co.uk/bnc-readme.html
 
-9. S1 indicates which image chosen by S2 is more closely connected to term
+9. S use WordValue to extract10 technical terms
 
-10. S2 indicates which image chosen by S1 is more closely connected to term
+10. S search for images (two per term) that are associated with their terms
 
-11. S1 reads text of S2
+11. S work in pairs (S1 + S2) to explain associations between their images and terms
 
-12. S2 reads text of S1
+12. S1 indicates which image chosen by S2 is more closely connected to term
 
-13. Discussion in plenum
+13. S2 indicates which image chosen by S1 is more closely connected to term
 
-14. S complete questionnaire part 2
+14. S1 reads text of S2
+
+15. S2 reads text of S1
+
+16. Discussion in plenum
+
+17. S complete questionnaire part 2
 
 ## Instructions for Students
 
