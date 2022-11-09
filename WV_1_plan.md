@@ -1,12 +1,12 @@
 <!--
-author:   Your Name
-email:    your@email.com
-version:  0.1.0
+author:   Mark Jacob
+email:    Mark.Jacob@iuz.tu-freiberg.de
+version:  0.0.1
 language: en
 narrator: US English Female
 
-comment:  This simple description of your course.
-          Multiline is also okay.
+comment:  Plan for first implementation ofWordValue.
+          First semester students at TU Freiberg.
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -14,11 +14,14 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 icon:     https://www.wordvalue.gwi.uni-muenchen.de/static/Logo_3.png
 
-translation: Français translations/French.md
+translation: Deutsch translations/WV_1_plan_de.md
 -->
 
-# Implementation 1
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TUBAF-IUZ-LiaScript/STEM-English-1/blob/main/WV_1_plan.md)
 
+
+# Implementation 1
+_
 ## Background
 
 The goal is to implement the WordValue application in university courses of English for Specific Purposes.This app, primarily aimed towards users from a linguistics or language teaching background, will help students of technical subjects to visualize the text from scientific articles (written English) or from the transcript of videos (spoken English) and thus enable them to explore the vocabulary and structure of the texts. The digital nature of WordValue enables the easy sharing of students' findings and the integration of application into a contemporary course setting.
