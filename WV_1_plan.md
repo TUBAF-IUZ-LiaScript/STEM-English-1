@@ -22,8 +22,6 @@ translation: Deutsch translations/WV_1_plan_de.md
 
 # WordValue as a tool for studying scientific English
 
-
-
 This application, primarily aimed towards users from a linguistics or language teaching background, will help students of technical subjects to visualize the text from:
 
 - scientific articles (written English) or from
