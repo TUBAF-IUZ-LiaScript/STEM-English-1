@@ -17,6 +17,31 @@ translation: Français translations/French.md
 
 # Road Map for Einführung in die Fachsprache
 
+> WordValue will be implemented in three courses:
+
+1. Einführung in die Fachsprache für Mathematik (5 first-year students)
+
+- Introduction to WordValue (15 minutes) including pre-tasks questionnaire: Monday 13th November
+- Students acquaint themselves with WordValue (including watching YouTube videos): by Monday 20th November
+- WordValue used in class to search for technical vocabulary in articles: Monday 20th November
+- Students' presentations and post-tasks questionnaire: Monday 27th November
+
+2. Einführung in die Fachsprache für Chemie (20 first-year students)
+
+- Introduction to WordValue (15 minutes) including pre-tasks questionnaire: Thursday 16th November
+- Students acquaint themselves with WordValue (including watching YouTube videos): by Thursday 23rd November
+- WordValue used in class to search for technical vocabulary in articles: Thursday 23rd November
+- Students' presentations and post-tasks questionnaire: Thursday 30th November
+
+3. Einführung in die Fachsprache für Informatik/Robotik (20 first-year students)
+
+- Introduction to WordValue (15 minutes) including pre-tasks questionnaire: Thursday 16th November
+- Students acquaint themselves with WordValue (including watching YouTube videos): by Thursday 23rd November
+- WordValue used in class to search for technical vocabulary in articles: Thursday 23rd November
+- Students presentations and post-tasks questionnaire: Thursday 30th November
+
+
+
 1. Introduction to course
 
 2. Intro Part 2
