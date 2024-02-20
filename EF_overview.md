@@ -1,3 +1,23 @@
+<!--
+author:   Mark Jacob
+email:    Mark.Jacob@iuz.tu-freiberg.de
+version:  0.1.0
+language: de
+narrator: US English Female
+
+comment:  An overview of English for Maths & CS
+
+
+import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+
+-->
+
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/markjjacob/STEM-English-1/blob/main/EF_overview.md)
+
 # Einführung in die Fachsprache Overview
 
     {{0-1}}
