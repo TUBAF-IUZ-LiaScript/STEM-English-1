@@ -2,7 +2,7 @@
 author:   Mark Jacob
 email:    Mark.Jacob@iuz.tu-freiberg.de
 version:  0.1.0
-language: de
+language: en
 narrator: US English Female
 
 comment:  An overview of English for Maths & CS
