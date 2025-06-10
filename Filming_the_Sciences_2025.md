@@ -1,3 +1,22 @@
+<!--
+author:   Mark Jacob
+email:    Mark.Jacob@iuz.tu-freiberg.de
+version:  0.1.0
+language: en
+narrator: US English Female
+
+comment:  Student judges for film festival
+
+import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+
+-->
+
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TUBAF-IUZ-LiaScript/STEM-English-1/blob/main/Filming_the Sciences_2025.md)
+
 # Filming the Sciences 2025
 
 Dear 11th graders of Geschwister Scholl Gymnasium Nossen,
