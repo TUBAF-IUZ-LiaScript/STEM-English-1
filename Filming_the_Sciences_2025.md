@@ -86,4 +86,4 @@ There is no Team 5 😃
 
 ## Team 10
 
-Link to follow separately ...
+!?[](https://video.tu-freiberg.de/video/fts-2025-team10/756bf32597f63c1375baf1f963160600)
