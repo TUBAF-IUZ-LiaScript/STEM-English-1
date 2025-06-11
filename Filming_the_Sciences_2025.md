@@ -54,7 +54,7 @@ Lecturer in English for Specific Purposes & Professional Communication at TU Ber
 
 ## Team 2
 
-Not yet submitted
+!?[](https://video.tu-freiberg.de/video/fts-2025-team2/617c1a1584f4efacaddef802827209eb)
 
 ## Team 3
 
